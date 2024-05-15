@@ -1,0 +1,8 @@
+resources:
+- vote-ui-pvc.yaml
+- git-update-deployment-task.yaml
+- pipeline.yaml
+- triggertemplate.yaml
+- triggerbinding.yaml
+- eventlistener.yaml
+- el-route.yaml
